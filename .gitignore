@@ -4,8 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-/Amazon-images
-/commandsFile
+/Amazon-images.txt
+/commandsFile.txt
 /output-images
 
 # testing
