@@ -4,9 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/.Amazon-images.txt
-/commandsFile.txt
-/output-images
+
 
 # testing
 /coverage

@@ -1,0 +1,30 @@
+For Firebase:
+npm i -g firebase-tools
+firebase login
+firebase init hosting
+npm run build
+firebase deploy
+
+For stripe installation:
+npm i @stripe/stripe-js
+npm i @stripe/react-stripe-js
+
+
+
+For axios:
+npm i axios
+
+
+For Firebase:
+firebase init
+
+
+To install express,cors and stripe for index.js file in functions folder:
+npm i express
+npm i cors
+npm i stripe
+
+To run the backend api:
+firebase emulators:start
+
+npm install moment
